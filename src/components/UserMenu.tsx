@@ -562,6 +562,7 @@ export const UserMenu: React.FC = () => {
           <div className='my-1 border-t border-gray-200 dark:border-gray-700'></div>
 
           {/* 版本信息 */}
+          {/*
           <button
             onClick={() => {
               setIsVersionPanelOpen(true);
@@ -585,6 +586,7 @@ export const UserMenu: React.FC = () => {
                 )}
             </div>
           </button>
+          */}
         </div>
       </div>
     </>
